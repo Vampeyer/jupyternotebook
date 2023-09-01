@@ -1,0 +1,2 @@
+make sure you completely uninstall 3.10 , if needed , 
+if there are troubles starting pip 
